@@ -1,2 +1,2 @@
-#Diabetes Patient Hospital Stay Duration Prediction Model
+# Diabetes Patient Hospital Stay Duration Prediction Model
 Diabetes Patient Hospital Stay Duration Prediction Model is a machine learning model that predicts the time a diabetes patient would have to stay in the hospital given data on the number of lab procedures they have had, data about the tests they have received, and more. The selected features based on EDA, cross validation, and evaluating errors are the number of medications received, number of lab procedures done, and the procedures done. I used scikit-learn to build the model and matplotlib to conduct exploratory data analysis through various graphs and plots. 
